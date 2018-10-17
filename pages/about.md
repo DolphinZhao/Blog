@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: Reboot
+description: 简单可依赖！
 keywords: DolphinZhao, 大数据
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-简单可依赖！
+学而不思则罔，思而不学则殆。
 
 ## 联系
 
