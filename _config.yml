@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
+baseurl: https://dolphinzhao.github.io/blog
 url: https://dolphinzhao.github.io/blog
 date_format: "ordinal"
 title: 赵卓辉
