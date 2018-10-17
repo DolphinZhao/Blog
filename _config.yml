@@ -2,9 +2,9 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://github.com/DolphinZhao/Blog
 date_format: "ordinal"
-title: 卓辉
+title: 赵卓辉
 subtitle: "Reboot"
 description: "赵卓辉的个人博客"
 keywords: 赵卓辉, zhaozhuohui
